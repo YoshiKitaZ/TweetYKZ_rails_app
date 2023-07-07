@@ -75,6 +75,3 @@ group :production do
   gem 'pg'
 end
 
-# ターミナル
-1
-% bundle install
