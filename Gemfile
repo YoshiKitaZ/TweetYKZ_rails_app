@@ -70,3 +70,11 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+group :production do
+  gem 'pg'
+end
+
+# ターミナル
+1
+% bundle install
